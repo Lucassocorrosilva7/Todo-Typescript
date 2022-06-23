@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+$color-red: #F05454;
+$color-blue-light: #30475E;
+$color-blue-dark: #222831;
+$color-white: #fff;
+$fontFamily: 'Koulen', cursive;;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: $fontFamily;
+}
+
+
+
+
+.hidden{
+    display: none !important;
+}
+

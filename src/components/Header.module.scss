@@ -1,0 +1,13 @@
+.header {
+    min-height: 5rem;
+    text-align: center;
+    background-color: #F05454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   &__title{
+        color: #f1f1f1;
+        letter-spacing: 0.7rem;
+    }
+}
